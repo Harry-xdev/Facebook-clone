@@ -1,0 +1,69 @@
+* {
+    background-color: rgb(20, 20, 20);
+    color: rgb(255, 255, 255);
+}
+
+body {
+    margin : 0;
+}
+
+
+#header-bar {
+    background-color: #1c1e21;
+    height: 70px;
+    border: 1px solid rgb(102, 102, 102);
+    border-width: 0px 0px 1px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.btn-facebook {
+    height: 60px;
+    width: 60px;
+    background-color: none;
+    margin: 0px 0px 0px 10px;
+    border-radius: 50%;
+}
+
+#btn {
+    background: none;
+}
+#srch-bar {
+    color:rgb(167, 166, 166);
+    height: 55px;
+    width: 230px;
+    border-radius: 40px;
+    border: none;
+    font-size: 20px;
+    padding: 0px 0px 0px 50px;
+}
+#search {
+    display: flex;
+    align-items: center;
+    background: none;
+    border: none;
+}
+
+
+#logo-facebook {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+#link {
+    height: 60px;
+    width: 60px;
+    /* margin: 0px 0px 0px 10px; */
+    border-radius: 50%;
+    background: none;
+}
+
+
+
+
+/* #section {
+    background-color: rgb(73, 72, 72);
+    height: 31px;
+    border: 0px solid white;
+} */
